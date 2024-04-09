@@ -1,5 +1,3 @@
-Certainly! Below is a sample README for the PowerShell script you now have. This README describes the purpose of the script, its usage, and any prerequisites. You should adjust paths or details to fit your actual setup or organizational documentation standards.
-
 ---
 
 # WSL and Docker VHDX Compaction Script
